@@ -29,11 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KosyanovDV.Sprint0.Ta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{17B3528D-E12A-4273-AC62-D26EB02776F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KosyanovDV.Sprint0.Task4.V0", "Tyuiu.KosyanovDV.Sprint0.Task4.V0\Tyuiu.KosyanovDV.Sprint0.Task4.V0.csproj", "{24B013E5-122E-47F7-99A8-27AD8810256E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KosyanovDV.Sprint0.Task4.V0", "Tyuiu.KosyanovDV.Sprint0.Task4.V0\Tyuiu.KosyanovDV.Sprint0.Task4.V0.csproj", "{24B013E5-122E-47F7-99A8-27AD8810256E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KosyanovDV.Sprint0.Task4.V0.Lib", "Tyuiu.KosyanovDV.Sprint0.Task4.V0.Lib\Tyuiu.KosyanovDV.Sprint0.Task4.V0.Lib.csproj", "{E6CE102E-AA15-4EE1-A125-A8E524EA81FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KosyanovDV.Sprint0.Task4.V0.Lib", "Tyuiu.KosyanovDV.Sprint0.Task4.V0.Lib\Tyuiu.KosyanovDV.Sprint0.Task4.V0.Lib.csproj", "{E6CE102E-AA15-4EE1-A125-A8E524EA81FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KosyanovDV.Sprint0.Task4.V0.Test", "Tyuiu.KosyanovDV.Sprint0.Task4.V0.Test\Tyuiu.KosyanovDV.Sprint0.Task4.V0.Test.csproj", "{40E13B4E-DD9C-491E-ABBA-22ADD70B8ED0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KosyanovDV.Sprint0.Task4.V0.Test", "Tyuiu.KosyanovDV.Sprint0.Task4.V0.Test\Tyuiu.KosyanovDV.Sprint0.Task4.V0.Test.csproj", "{40E13B4E-DD9C-491E-ABBA-22ADD70B8ED0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{F75CCBEB-F4EF-4CC4-88CE-CDAF0A33B122}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
